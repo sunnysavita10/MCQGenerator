@@ -10,7 +10,8 @@ from mcqgenrator.MCQGenrator import generate_evaluate_chain
 from mcqgenrator.logger import logging
 
 #loading json file
-with open('C:\Complete_Content\All_Project\TEST_FOR_EVERYTHING\langchain\Response.json', 'r') as file:
+
+with open('Response.json', 'r') as file:
     RESPONSE_JSON = json.load(file)
 
 #creating a title for the app
