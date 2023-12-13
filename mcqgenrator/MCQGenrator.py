@@ -16,7 +16,8 @@ from langchain.chains import SequentialChain
 load_dotenv()
 
 # Access the environment variables just like you would with os.environ
-key = os.getenv("OPENAI_API_KEY")
+#key = os.getenv("OPENAI_API_KEY")
+key="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"
 
 print("Value of MY_VARIABLE:", key)
 
