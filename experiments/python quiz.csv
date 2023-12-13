@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What are the supported paradigms in Python?,a: Object-oriented programming and structured programming | b: Functional programming and aspect-oriented programming | c: Design by contract and logic programming | d: All of the above,d
+What memory management technique does Python use?,a: Reference counting | b: Garbage collection | c: Dynamic typing | d: Cycle detection,b
+Which module in the standard library implements functional tools borrowed from Haskell and Standard ML?,a: itertools | b: functools | c: filter | d: map,b
+"According to the Zen of Python, what is preferred: complex or complicated?",a: Complex | b: Complicated | c: Both are equally preferred | d: None of the above,a
+What is the core philosophy of Python?,a: Beautiful is better than ugly | b: Explicit is better than implicit | c: Simple is better than complex | d: All of the above,d
